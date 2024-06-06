@@ -6,6 +6,7 @@ const RoomList = () => {
       <h1 className="text-3xl font-bold mb-4">Room List</h1>
       <p className="text-lg">List of all rooms will be displayed here.</p>
       <p className="text-lg">Manage room assignments and availability.</p>
+      <p className="text-lg">Updated content to trigger commit.</p>
     </div>
   );
 };

@@ -6,6 +6,7 @@ const Accounts = () => {
       <h1 className="text-3xl font-bold mb-4">Accounts</h1>
       <p className="text-lg">Account details will be displayed here.</p>
       <p className="text-lg">Keep track of financial transactions.</p>
+      <p className="text-lg">Updated content to trigger commit.</p>
     </div>
   );
 };

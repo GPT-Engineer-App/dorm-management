@@ -24,6 +24,7 @@ const Login = () => {
         </div>
       </form>
       <p className="text-sm text-gray-600 mt-4">Forgot your password? <a href="#" className="text-blue-500">Click here</a></p>
+      <p className="text-lg">Updated content to trigger commit.</p>
     </div>
   );
 };
